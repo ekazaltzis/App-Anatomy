@@ -7,7 +7,7 @@ var config = {
       'Check out <a href="http://docs.feedhenry.com/wiki/App_Anatomy" target="_blank">this link</a> for full documentation on using packages.'
     ],
     tab2: [
-      'The "default" package contains the core of the app. It is represented by the directory /client/default.',
+      'The "default" packagedoes not  contains the core of the app. It is represented by the directory /client/default.',
       'The main start file for this app is index.html - it\'s full path is /client/default/index.html.',
       'To begin exploring this app, start by looking at the index.html file.',
       'The main JavaScript for this app is in init.js - here we initialise the contents of the tabs, and set up scrolling.',
